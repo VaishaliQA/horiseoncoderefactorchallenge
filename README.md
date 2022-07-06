@@ -26,8 +26,11 @@ The following image shows the web application's appearance.
 
 
 Website Deployed Link:
+https://vaishaliqa.github.io/horiseoncoderefactorchallenge/
 
 Tool Used:
+Visual Studio Code
+Git Bash (for code checkout in GitHub)
 
 Technologies Used:
 HTML
