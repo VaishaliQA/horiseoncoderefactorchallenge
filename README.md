@@ -11,8 +11,8 @@
   </ul>
     
 <h4>Task Completed:</h4>
-    <p> HTML </p>
-    <ul style="list-style-type:disc;">
+    <h6> HTML </h6>
+    <ul>
 <li>Added HTML semantic elments header, footer, aside, section, nav tags.</li>
 <li>Combined redudant classes.</li>
 <li>Added alternate text to images.</li>
@@ -20,8 +20,8 @@
 <li>Added comments in code to provide description.</li>
 <li>Added descriptive title.</li>
     </ul>
-    <p> CSS </p>
-    <ul style="list-style-type:disc;">
+    <h6> CSS </h6>
+    <ul>
 <li>Added comments to describe style of elemnets</li>
 <li>Removed repeative style code and combined into one class</li>
 <li>Replaced tag elements selector</li>
